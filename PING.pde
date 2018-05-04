@@ -42,7 +42,7 @@ void draw() {
     textAlign(CENTER, CENTER);
     fill(255,0,100);
     textSize(25);
-    text("PONG", 40 , 15);
+    text("PING", 40 , 15);
     textSize(20);
     text("by Nick Zegels", 45, 40);
     text("score :" + score, 1300, 40);
@@ -57,13 +57,11 @@ void draw() {
       x = x + speedX;
       ellipse(x,y,diam,diam);
       rectSize = constrain(rectSize, 10,150);
-      score = +1;
     } 
       
     else if (x < 25) {
       speedX = speedX * -1.1;
       x = x + speedX;
-      score = +1;
     }
 
     if (x > width) { 
