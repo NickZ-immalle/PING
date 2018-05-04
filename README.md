@@ -7,4 +7,4 @@ The game includes obstacles, increasing speed, self-made pixel art backgrounds a
 The game is really easy. The game starts by pressing your left mouse button. You can also pause the game if you click it again. You start off playing against the PC (= an AI if you will). It is impossible to win against the computer, but there is a scoreboard to give you hope. This is an early version of the game, in a later version you can choose to play vs a friend instead of the PC. This way the scoreboard isn't useless.
 
 # How to instal ?
-You only have to make a file. This file should inculde the .pde file and the .png file. They have to be in the same file because if they don't the program won't work. It isn't very hard, anyone should be able to do it.
+You only have to make a file. This file should inculde the .pde files and the .png file. They have to be in the same file because if they don't the program won't work. It isn't very hard, anyone should be able to do it.
